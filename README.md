@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** 09.04.2021  
+**Course Date:** 11.04.2021  
 **Name:** Asude  
 **Surname:** MOR    
 **Email:** morasude1@gmail.com  
