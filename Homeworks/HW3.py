@@ -12,8 +12,7 @@ Ders Notu Başvurusu
 . Öğrencilerin notlarını hesaplayın ve indeksleme yardımı ile listeye aktarın.
 . Son olarak, notu en yüksek olan öğrenciyi ilk dizinde ve en düşük notu olan öğrenciyi listenin son dizininde olacak şekilde ayarlayın.
 """
-
-#Calculate average
+#Listeyiye aktarım ile olan kısmı Community kısmından sordum ama cevap alamadım o yüzden sözlük kullanarak yaptım.
 
 def calc_average(passingGrade):
     if (0.0 <= midterm <= 100.0 and 0.0 <= project <= 100.0 and 0.0 <= final <= 100.0):
